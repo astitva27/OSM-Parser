@@ -1,3 +1,6 @@
+// Name: Astitva
+// Roll No: 20CS30007
+
 #include <iostream>
 #include <string>
 #include <vector>
@@ -186,7 +189,7 @@ int main()
         cout << "| ";
         cout << "2: Search for a node using name                                                         |" << endl;
         cout << "| ";
-        cout << "3: Find the K nearest node                                                              |" << endl;
+        cout << "3: Find the K nearest nodes                                                             |" << endl;
         cout << "| ";
         cout << "4: Find the shortest path between two nodes                                             |" << endl;
         cout << "| ";
